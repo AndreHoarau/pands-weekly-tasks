@@ -19,4 +19,4 @@ while initial != 1:
 # Once the loop is exited, we can then print the list.
 print(f"{list1}")
 
-# Source: I looked at lists and looping lists on W3Schools: https://www.w3schools.com/python/python_lists_loop.asp
+# Source: I looked at lists and looping lists on W3Schools: https://www.w3schools.com/python/python_lists_loop.aspn

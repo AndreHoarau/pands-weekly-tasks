@@ -36,6 +36,7 @@ plt.plot(x_values, y_values)
 plt.xlabel("Range")
 plt.ylabel("Frequency")
 # Let's add a title.
+# Source for making it look nicer: https://www.w3schools.com/python/matplotlib_labels.asp
 plt.title("Histogram 1000 Values Mean = 5, Std. Deviation = 2\n h(x)=x^3 (x 0-10 inclusive)")
 plt.show()
 

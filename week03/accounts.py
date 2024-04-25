@@ -1,3 +1,4 @@
+# Week 03
 # this program reads in 10 character account number and outputs the account number with only the last 4 digits showing and the first 6 digits replaced with xs.
 # author: Andre Hoarau 
 # reference: https://www.w3schools.com/python/python_strings_slicing.asp

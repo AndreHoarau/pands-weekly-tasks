@@ -1,3 +1,4 @@
+# Week 05
 # This program outputs whether or not today is a weekday
 # If it is a weekday the program will say "Yes, unfortunately today is a weekday." otherwise it will say "It is the weekend, yay!"
 # Author: Andre Hoarau

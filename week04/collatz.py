@@ -1,3 +1,4 @@
+# Week 04
 # Write a program that instructs a user to input any positive integer.
 # The program will then divide the number by 2 if it is even or multiply it by 3 and add 1 if it is odd.
 # The program will keep doing this with the previous integer until it reaches 1, at which point the program will end.

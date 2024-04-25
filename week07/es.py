@@ -1,4 +1,5 @@
-#This program will read in a txt file and output the number of e's that it contains. 
+# Week 07
+# This program will read in a txt file and output the number of e's that it contains. 
 # Author Andre Hoarau
 # I will initially build for just the txt file and then will handle error handling 
 # Lets define out filename 

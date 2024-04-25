@@ -1,3 +1,4 @@
+# Week 08
 # A program that displays a normal distribution of 1000 values with mean of 5 and a standard deviation of 2 and a plot of the function h(x)=x^3 in the range of 0 to 10 on one set of axes.
 # Make the plot look nice too
 # Author Andre Hoarau

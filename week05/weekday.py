@@ -4,7 +4,7 @@
 # Author: Andre Hoarau
 # Date is not a python data type so we import datetime
 import datetime
-# datetime.datetime.now() give thes current date
+# datetime.datetime.now() gives the current date
 # We can use strftime() method to construct a readable string of the date where we just look at the day of the week.
 today = datetime.datetime.now()
 todaystring =today.strftime("%A")
@@ -15,6 +15,7 @@ if todaystring in daysofweek["Weekday"]:
     print("Yes, unfortunately today is a weekday.")
 else: 
     print("It is the weekend, yay!")
-# Sources: https://www.w3schools.com/python/python_datetime.asp 
-# Asked ChatGPT to clarify how to probe the key value pairs in the dictionray
+# Sources: Information on date time https://www.w3schools.com/python/python_datetime.asp 
+# Asked ChatGPT to clarify how to probe the key value pairs in the dictionary
 # Was also able to test this be manual input of the date to see if the weekend values change and it does. Will test again on a weekend! 
+# This does also work on the weekend!

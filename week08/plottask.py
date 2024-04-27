@@ -19,18 +19,22 @@ plt.show()
 x_values = np.arange(11)
 # This generates range 0 to 10 inclusive/
 y_values= x_values**3
-#This cuves the x values
+#This cubes the x values
 plt.plot(x_values, y_values)
 plt.show()'''
 # We then plot the values and show them with the histogram Source:https://w3schools.com/python/matplotlib_plotting.asp
 #Now to make it look nicer.
 import numpy as np
 import matplotlib.pyplot as plt
-
+# This ensures we get the same random set of numbers in the array.
 np.random.seed(1)
+# Generate the array.
 array1= np.random.normal(5,2,1000)
+# Plot the histogram
 plt.hist(array1)
+# Plot the x values in the range 0-10
 x_values = np.arange(11)
+# Plot the y values as x to the power of 3
 y_values= x_values**3
 plt.plot(x_values, y_values)
 #Label the x and y axis
